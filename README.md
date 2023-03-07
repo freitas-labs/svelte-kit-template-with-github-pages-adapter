@@ -1,4 +1,4 @@
-# 
+# svelte_kit_template_with_github_pages_adapter
 
 Proof of Concept template source-code generated with @dart-pacotes&#x2F;.bricks for a SvelteKit application with support for GitHub Pages deployment
 
@@ -41,8 +41,6 @@ To deploy your app:
 ```bash
 npm run deploy
 ```
-
-
 
 ### Contact
 

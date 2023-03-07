@@ -3,7 +3,7 @@
 	import { LL } from '@i18n';
 </script>
 
-<Heading value="" />
+<Heading value="svelte_kit_template_with_github_pages_adapter" />
 <div class="flex flex-row justify-evenly">
 	<CardNoImage />
 	<CardWithImage />
